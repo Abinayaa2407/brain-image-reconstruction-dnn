@@ -55,7 +55,9 @@ This project explores the use of deep learning to reconstruct visual images dire
    cd brain-image-reconstruction-dnn
    
 2.Install dependencies:
+  ```bash
   pip install -r requirements.txt
 
 3.Open the notebook:
+  ```bash
   jupyter notebook DNN_33085799-2.ipynb
